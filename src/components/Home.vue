@@ -28,7 +28,7 @@
         <div class="Companie">
           <div class="Companie__image">
             <a :href="companie.href" target="_blank">
-              <img :src="`/static/companies/images/${companie.logo}`" :alt="companie.name">
+              <img :src="`static/companies/images/${companie.logo}`" :alt="companie.name">
             </a>
           </div>
           <a class="Companie__name" :href="companie.href" target="_blank">
