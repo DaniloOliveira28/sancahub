@@ -3,7 +3,7 @@
     <header class="Header">
       <img class="Header__logo" src="./assets/logo.png">
     </header>
-    <router-view></router-view>
+    <router-view/>
   </div>
 </template>
 
