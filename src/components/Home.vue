@@ -12,7 +12,7 @@
         @click="openModal(companie)"
       >
         <div class="CompanieList__imageBox">
-          <img class="CompanieList__image" :src="`/static/companies/images/${companie.logo}`" :alt="companie.name">
+          <img class="CompanieList__image" :src="`static/companies/images/${companie.logo}`" :alt="companie.name">
         </div>
         <div class="CompanieList__info">
           <span class="CompanieList__name">{{ companie.name }}</span>
@@ -44,7 +44,6 @@
 <script>
   import Modal from './Modal';
   import Companies from '../../static/companies/companies.json';
-
   export default {
     name: 'home',
     data() {
