@@ -17,6 +17,12 @@
       "logo": "liber.png",
       "href": "https://www.libercapital.com.br/",
       "description": "Antecipação de recebíveis simples, segura e rápida para os seus fornecedores. Sua empresa paga a prazo e eles recebem à vista, com transparência e as melhores taxas do mercado."
+    },
+    {
+      "name": "Monitora",
+      "logo": "monitora.png",
+      "href": "https://www.monitoratec.com.br/",
+      "description": "A Monitora é uma empresa de soluções digitais totalmente brasileira e com impacto internacional. Somos especialistas em todas as particularidades do desenvolvimento de software."
     }
   ]
 }
