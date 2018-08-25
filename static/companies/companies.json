@@ -23,6 +23,12 @@
       "logo": "monitora.png",
       "href": "https://www.monitoratec.com.br/",
       "description": "A Monitora é uma empresa de soluções digitais totalmente brasileira e com impacto internacional. Somos especialistas em todas as particularidades do desenvolvimento de software."
+    },
+    {
+      "name": "Like Leads",
+      "logo": "like_leads.png",
+      "href": "https://likeleads.com.br/",
+      "description": "A Like Leads é uma agência de Ativação de Negócios que vai colocar a sua empresa em um novo patamar digital. Ela está sediada em São Carlos (SP), a capital da tecnologia, e tem como foco a produção de conteúdo de qualidade para atrair e qualificar leads (clientes em potencial)."
     }
   ]
 }
