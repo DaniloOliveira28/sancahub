@@ -34,7 +34,13 @@
       "name": "tokenlan",
       "logo": "token_lab.jpeg",
       "href": "http://www.tokenlab.com.br/",
-      "description": "A Tokenlab é uma empresa especializada em inovação nascida nas universidades de São Carlos (UFSCar e USP). Empregamos as mais modernas tecnologias e práticas para desenvolver aplicativos Web e Mobile. Nossa missão é criar soluções, em conjunto com nossos clientes, que explorem todo o potencial de transformação que novas tecnologias proporcionam para melhorar a vida das pessoas."    
+      "description": "A Tokenlab é uma empresa especializada em inovação nascida nas universidades de São Carlos (UFSCar e USP). Empregamos as mais modernas tecnologias e práticas para desenvolver aplicativos Web e Mobile. Nossa missão é criar soluções, em conjunto com nossos clientes, que explorem todo o potencial de transformação que novas tecnologias proporcionam para melhorar a vida das pessoas."
+    },
+    {
+      "name": "wikilab",
+      "logo": "wikilab.jpg",
+      "href": "http://coworkingsaocarlos.com/",
+      "description": "O Wikilab Coworking é um espaço e uma comunidade de pessoas com uma proposta inovadora de convivência, trabalho, reuniões, realização de eventos e projetos. Acreditamos que boas ideias e negócios inovadores surgem em um ambiente de inspiração e cooperação."
     }
   ]
 }
