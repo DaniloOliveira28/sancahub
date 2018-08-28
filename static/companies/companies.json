@@ -37,10 +37,22 @@
       "description": "A Tokenlab é uma empresa especializada em inovação nascida nas universidades de São Carlos (UFSCar e USP). Empregamos as mais modernas tecnologias e práticas para desenvolver aplicativos Web e Mobile. Nossa missão é criar soluções, em conjunto com nossos clientes, que explorem todo o potencial de transformação que novas tecnologias proporcionam para melhorar a vida das pessoas."
     },
     {
-      "name": "wikilab",
+      "name": "Wikilab",
       "logo": "wikilab.jpg",
       "href": "http://coworkingsaocarlos.com/",
       "description": "O Wikilab Coworking é um espaço e uma comunidade de pessoas com uma proposta inovadora de convivência, trabalho, reuniões, realização de eventos e projetos. Acreditamos que boas ideias e negócios inovadores surgem em um ambiente de inspiração e cooperação."
+    },
+    {
+      "name": "Super Empresa",
+      "logo": "super_empresa.png",
+      "href": "https://superempresa.com.br/",
+      "description": "A Super Empresa está no mercado há 22 anos. Atualmente temos mais de1500 clientes espalhados em mais de 150 cidades do nosso Brasil. Nossa missão é fazer da tecnologia e da gestão algo acessível, prático, simples e eficiente para todas as empresas e pessoas. Fornecemos produtos e serviços para que a sua seja uma Super Empresa. Super Empresa: tecnologia fácil de usar!"
+    },
+    {
+      "name": "Startup Legal",
+      "logo": "startup_legal.jpeg",
+      "href": "http://grupostartuplegal.com.br/",
+      "description": "A StartupLegal é uma empresa que tem como objetivo promover a estruturação jurídica e contábil que a sua empresa precisa, startup ou não, evitando que ela se torne mais um número na estatística de empresas que precocemente não tiveram sucesso e ainda, reconhecida a sua ideia como aderente pelo mercado, garantir a segurança necessária para com os investimentos a serem recebidos, garantindo consequentemente escalabilidade eficaz."
     }
   ]
 }
