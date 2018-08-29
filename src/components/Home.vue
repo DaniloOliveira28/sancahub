@@ -2,7 +2,14 @@
   <section>
     <div class="Alert" :class="alertStyle">
       <p class="Alert__title">
-        NÓS APOIAMOS O SANCAHUB.
+         <b>Associação de Empresas de Tecnologia do Sancahub.</b>
+         <br>
+         <span>Nosso propósito é transformar São Carlos no mais relevante ecossistema de tecnologia e de inovação da América Latina</span>
+         <br><br>
+
+         <b>Sua empresa quer participar do nosso movimento?</b>
+         <br>
+         <span>Nos mande um email: contato@sancahub.org</span>
       </p>
     </div>
     <div class="CompanieList">
