@@ -65,6 +65,12 @@
       "logo": "dna_consult.jpeg",
       "href": "http://dnaconsult.com.br/",
       "description": "A DNA Consult Genética e Biotecnologia Ltda. foi concebida a partir da oportunidade de aplicação dos conhecimentos adquiridos durante a vida acadêmica de seus sócios, em um ramo de mercado de alto conteúdo tecnológico. O know-how da equipe técnica e dos sócios fundadores é diferencial de grande importância para estabelecer e adaptar tecnologias que permitem realizar exames com alta segurança e baixo custo, dando à empresa uma sólida reputação e o reconhecimento no mercado. É uma empresa especializada em análises de DNA e na aplicação dos conhecimentos derivados destas análises nos mais diferentes ramos, como diagnóstico, prognóstico, farmacogenética, paternidade e forense. Além disso, realiza serviços de genotipagem, sequenciamento de DNA, análise de laudos, perícias, consultoria e desenvolvimento de projetos de pesquisa."
+    },
+    {
+      "name": "Arquivei",
+      "logo": "arquivei.png",
+      "href": "https://arquivei.com.br/",
+      "description": "Integrado à Secretaria da Fazenda e prefeituras, o Arquivei é uma plataforma on-line que monitora, consulta e armazena automaticamente as Notas Fiscais Eletrônicas emitidas para empresas, garantindo cumprimento de obrigações fiscais, evitando multas e transformando os dados em Big Data e Inteligência de Negócio."
     }
   ]
 }
